@@ -1,6 +1,6 @@
 
 
-Week1 summary:
+### Week 1 summary:
 
 In Week 1 of the project, I performed exploratory data analysis to gain insights into the dataset and prepare it for model development.
 
@@ -18,17 +18,19 @@ In Week 1 of the project, I performed exploratory data analysis to gain insights
 
 5)Highly correlated feature pairs were extracted and printed.
 
-Week2 Updates:
+
+
+### Week 2 Updates:
 
 Tasks accomplished:
 
-1)Performed Bivariate analysis
+1)Performed Bivariate analysis.
 
-2) Visualized Outliers in the dataset using boxplot
+2)Visualized Outliers in the dataset using boxplot.
 
 **IMPROVEMENTS:**
 
-3)Handled the found outlier using IQR method
+3)Handled the found outlier using IQR method.
 
-4)Visualized Outliers after being treated using boxplot
+4)Visualized Outliers after being treated using boxplot.
 
